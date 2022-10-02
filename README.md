@@ -1,0 +1,1 @@
+SprintBoard is a Secured Self Manager, Kanban Board, note-taking, and Password Manager for free-form information collection and support delivered as part of the free, web-based application that allows users to Create, Read, Update, and Delete data. It will implement numerous basic functions simultaneously.

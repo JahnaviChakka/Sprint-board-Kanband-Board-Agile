@@ -1,0 +1,74 @@
+table td {
+  height: 3.4rem;
+  padding: 0.4rem;
+}
+
+table td button {
+  height: 2.4rem;
+}
+
+table {
+  background: #f50303;
+}
+
+.board-column {
+  /* display: inline-block; */
+  width: 23%;
+  margin-right: 1%;
+  float: left;
+  padding: 1rem;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+  /* background-color: #485461; */
+  /* color: #e6e7e7; */
+}
+
+.tagheadings {
+  font-size: 20px;
+  color: #222;
+}
+
+h3 {
+  margin-left: 0.4rem;
+}
+
+.board {
+  min-height: 2rem;
+  padding: 0.5rem !important;
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.06);
+  width: 90%;
+  display: inline-block;
+  margin: 0.3rem !important;
+  background-color: #fff;
+  color: #000;
+  font-weight: 600;
+  font-size: 1rem;
+  margin-top: 1.3rem !important;
+}
+
+.board-form button {
+  height: 2.4rem;
+}
+
+.board-form {
+  margin-left: 0.4rem;
+}
+
+.board-items {
+  overflow: hidden;
+}
+
+#ideaboard {
+  background-color: #ffff17;
+}
+
+#pendingboard {
+  background-color: #ff1a1a;
+}
+
+#progressboard {
+  background-color: #ff6600;
+}
+
+#completedboard {
+  background-color: #10ea10;
+}
